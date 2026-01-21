@@ -1,0 +1,85 @@
+# =========================
+# Archivos compilados
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+
+# =========================
+# Directorios de compilación
+# =========================
+/bin/
+/out/
+/target/
+/build/
+
+# =========================
+# Archivos de log
+# =========================
+*.log
+
+# =========================
+# Archivos temporales
+# =========================
+*.tmp
+*.temp
+*.swp
+*~
+
+# =========================
+# IDEs
+# =========================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# =========================
+# Maven
+# =========================
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# Gradle
+# =========================
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# =========================
+# Sistema operativo
+# =========================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+out/
+
+# =========================
+# Archivos de entorno
+# =========================
+.env
+.env.*
