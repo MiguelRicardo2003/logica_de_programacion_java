@@ -1,4 +1,4 @@
-package cursojava;
+package cursojava.Condicionales;
 
 import java.util.Scanner;
 
