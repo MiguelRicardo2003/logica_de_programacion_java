@@ -25,6 +25,10 @@ Clases y objetos (POO básica)
 
 Estructuras de datos básicas (ArrayList, Stack, Queue)
 
+Manejo de archivos (File, FileReader, FileWriter)
+
+Introducción a excepciones (try, catch)
+
 🚀 Objetivos del repositorio
 
 Desarrollar el pensamiento lógico y algorítmico.
@@ -35,16 +39,13 @@ Aplicar bases sólidas para cursos más avanzados de Java, estructuras de datos 
 
 Servir como material educativo o punto de partida para tus propios proyectos.
 
-⭐ Cómo apoyar el proyecto
+
 
 Si este repositorio te ha sido útil:
 
-Dale una ⭐ en GitHub
 
 ¡Compártelo con tus compañeros o estudiantes!
 
 Contribuye con tus propios ejercicios mediante pull requests
 
-Manejo de archivos (File, FileReader, FileWriter)
 
-Introducción a excepciones (try, catch)
